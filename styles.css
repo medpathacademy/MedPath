@@ -1,0 +1,41 @@
+body { 
+margin: 0;
+padding: 0;
+font-family: sans-serif
+}
+#navbar {
+display:flex  ;
+}
+#logo-1 {
+    width: 55px;
+    height: auto;
+    padding-left: 5px;
+}
+#logo-2 {
+    width: 130px;
+    padding-top: 6px;
+    padding-left: 0px;
+}
+#titlepic {
+    object-fit: cover;
+}
+#intro {
+display: flex;
+}
+.para { 
+    width: 30%;
+}
+.mentors-box { 
+    width: 50%;
+}
+h1 {
+text-align: center; 
+color: navy;
+}
+#titlepic {
+width: 100%
+fit-content 100%
+}
+#socials {
+    text-align: center;
+}
