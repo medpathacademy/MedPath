@@ -59,8 +59,9 @@ h3 { padding-left: 10px  ;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 100%;
+    width: 95%;
     margin-bottom: 2px;
+    padding-right: 10px !important;
 }
 .subject-chem {
     margin-top: 2px;
