@@ -52,7 +52,10 @@ width: 100%
 fit-content 100%
 }
 h2 {text-align: center;}
-h3 { padding-left: 10px ;}
+h3 { padding-left: 10px ;
+   font-size: medium
+   }
 #socials {
     text-align: center;
+    font-size: small
 }
