@@ -25,19 +25,19 @@ padding-left: 10px;
 } 
 
 .para { 
-    width: 30%;
+    width: 35%;
 }
-p { font-size: 20px;}
+p{ font-size: 18px !important;}
+
 .mentors-box { 
     display: flex;
     text-align: center;
     height: 1%;
-    width: 100px;
+    width: 50%;
     float: right;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    padding-bottom: 10px;
 } 
  p {font-size: 15px;
 margin: 5px 0; 
@@ -51,11 +51,32 @@ color: navy;
 width: 100%
 fit-content 100%
 }
-h2 {text-align: center;}
-h3 { padding-left: 10px ;
-   font-size: medium
-   }
-#socials {
+h2 {text-align: center;
+color: navy;}
+h3 { padding-left: 10px  ;
+}
+.subject-bio { 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 2px;
+}
+.subject-chem {
+    margin-top: 2px;
+}
+#socials p {
     text-align: center;
-    font-size: small
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+#socials a{ 
+    font-size: 16px;
+}
+#socials span{ 
+    text-align: center;
+    display: block;
+    width: 100%;
+    margin-top: 12px;
+    font-size: 13px;
 }
